@@ -1,0 +1,14 @@
+# Arduino IDE build output
+build/
+cmake-build-*/
+
+# Arduino IDE and editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
